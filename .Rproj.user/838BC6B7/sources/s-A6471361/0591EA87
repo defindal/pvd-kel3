@@ -1,0 +1,27 @@
+{
+    "id": "0591EA87",
+    "path": "~/GitHub/pvd-kel3/test-project.Rmd",
+    "project_path": "test-project.Rmd",
+    "type": "r_markdown",
+    "hash": "98112806",
+    "contents": "",
+    "dirty": false,
+    "created": 1636551823172.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,3",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1636551926,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1636551926128,
+    "read_only": false,
+    "read_only_alternatives": []
+}
